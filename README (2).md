@@ -82,6 +82,7 @@ source ~/.bashrc
 ### 1. Get Your Node ID
 
 - Go to [https://app.nexus.xyz/nodes](https://app.nexus.xyz/nodes)
+- You need to use US vpn to access website for now 
 - Click **Add Node** > **Add CLI Node**
 - Copy your `node-id`
 
