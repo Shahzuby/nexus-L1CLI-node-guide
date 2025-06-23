@@ -114,8 +114,8 @@ nexus-network start --node-id your-second-node-id
 
 ---
 
-## 📞 Support
-
+## 📞 Support and any query join our telegram channel ASAP - https://t.me/andhiiTGkamaii
+thanks
 For help and community support, join the [Nexus Discord](https://discord.gg/nexusxyz)
 
 ---
