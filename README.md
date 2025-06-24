@@ -9,7 +9,7 @@ Set up and run a Nexus CLI node to earn points and contribute to the network.
 | Resource | Minimum Specification |
 |----------|------------------------|
 | **CPU**  | 4 vCPU                 |
-| **RAM**  | 16 GB (for 1 node)      |
+| **RAM**  | 8-10GB (for 1 node)      |
 | **Disk** | 50 GB Storage          |
 | **Server Location** | US-Based Server |
 
